@@ -1,1 +1,1 @@
-worker: php cheat.php $SALIENS_TOKEN
+worker: java -jar target/SaliensAuto.jar <21519e8f8725b18be817bf60ab5b1c18> 1 1
